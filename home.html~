@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+	font-size: 850%;
+}
+h2 {
+	font-size : 200%;
+}
+body {
+	background-image: url("background1.jpg");
+	background-repeat:no-repeat;
+}
+</style>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+<h1><center><font color="black"> Why Yoga?</font></center></h1>
+<br>
+<p><h2><font color="black">Physical Benefits</font></h2></p>
+<br>
+<ul>
+	<p><h3><font color="black"> The relaxation techniques incorporated in yoga can lessen chronic pain, such as lower back pain, arthritis, headaches and carpal tunnel syndrome, Yoga can also lower blood pressure and reduce insomnia.Other physical benefits of yoga include:</font><h3></p>
+			<p>
+			<li><font color="black">Increased flexibility</font></li>
+			<li><font color="black">Increased muscle strength and tone</font></li>
+			<li><font color="black">Improved respiration, energy and vitality</font></li>
+			<li><font color="black">Maintaining a balanced metabolism</font></li>
+			<li><font color="black">Weight reduction</font></li>
+			<li><font color="black">Cardio and circulatory health</font></li>
+			<li><font color="black">Improved athletic performance</font></li>
+			<li><font color="black">Protection from injury</font></li>
+			</p>
+			<br>
+			<p><h2><font color="black">Mental Benefits</font></h2></p>
+			<br>
+			<p><h3><font color="black">
+
+			Aside from the physical benefits, one of the best benefits of yoga is how it helps a person manage stress, which is known to have devastating effects on the body and mind.Stress can reveal itself in many ways, including back or neck pain, sleeping problems, headaches, drug abuse, and an inability to concentrate.Yoga can be very effective in developing coping skills and reaching a more positive outlook on life.
+                        Yoga’s incorporation of meditation and breathing can help improve a person’s mental well-being.Regular yoga practice creates mental clarity and calmness,increases body awareness,relieves chronic stress patterns,relaxes the mind,centers attention; and sharpens concentration. Body- and self-awareness are particularly beneficial,because they can help with early detection of physical problems and allow for early preventive action.
+	</font></h3></p>
+
+	      </html>
+	      <br><br>
+	      <html lang="en">
+	      <head>
+	        <title>Bootstrap Case</title>
+		  <meta charset="utf-8">
+		    <meta name="viewport" content="width=device-width, initial-scale=1">
+		      <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+			  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+			  </head>
+			  <body>
+
+			  <nav class="navbar navbar-default navbar-fixed-bottom">
+				    <div class="container-fluid">
+					        <div class="navbar-header">
+							   
+							    <ul class="nav navbar-nav">
+								          <li class="active"><a href="first.html">HOME</a></li>
+									        <li><a href="home.html">ABOUT</a></li>
+										      <li><a href="trial.html">QUICK AND COOL</a></li>
+										            <li><a href="yogapedia.html">YOGAPEDIA</a></li>
+											        </ul>
+												  </div>
+											  </nav>
+											    

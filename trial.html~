@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+body {
+    background: url("plain.jpeg");
+    background-size: 2000px 2000px;
+    background-repeat: no-repeat;
+    padding-top: 40px;
+}
+</style>
+</head>
+<h2><center><font color="white">QUICK YOGA</font></center></h2>
+<h3><font color="white"><p>
+<ul>
+<li>Here's a brand new quick stretching routine that will hopefully become a new enjoyable go-to cool down for you once you have finished some of our more intense HIIT cardio or strength workouts.
+<br>
+All of the muscles in the body are gently stretched with this yoga infused workout that takes less than five minutes of your day to complete.  
+Otherwise, these are five minutes very well spent. Not only are you stretching your muscles after a workout, you're also working to improve your flexibility and joint range of motion.</li>
+<li>
+You should never feel pain during any of these stretches. Learning to listen to your body is a bit of an art form, so give yourself the time and leniency of learning how to cater to your body's messages. Tension, or mild discomfort during a stretch is a lot different from pain, so be sure to listen to your body in order to be able to walk that fine line of pushing your own boundaries, safely.
+</li><br><li>
+Workout Structure
+<br>
+There is no timer in this stretching workout video, instead we move relatively quickly through a wide variety of movements that are great for stretching out the entire body.
+<br>
+It is called QUICK because it takes only 5 mins of your day and COOL because that is how you feel after this session </li>
+<li>How often can I do this workout?
+<br>
+You can do this routine as often as you like - you can even do it multiple times through, or multiple times in a day. Do make sure that you don't start this routine on completely cold muscles. For example, if you have been sitting at a computer for an extended period of time, you will want to walk around for at least a couple of minutes, just to warm up those muscles a bit.</li></ul></p></font></h3>
+ 
+</html>
+<html lang="en">
+<head>
+  <title>Bootstrap Case</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+ 				
+</html>
+<html lang="en">
+<head>
+  <title>Bootstrap Case</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<br><br><br>
+<body>
+<p align ="center">
+  <iframe src="https://www.youtube.com/embed/FAKaKgmn76E "
+   width="560" height="315" frameborder="0" allowfullscreen></iframe>
+</p>
+<br><br>
+<p align ="center">
+  <iframe src="https://www.youtube.com/embed/jOfshreyu4w "
+   width="560" height="315" frameborder="0" allowfullscreen></iframe>
+</p>
+ <br><br>
+<nav class="navbar navbar-default navbar-fixed-bottom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+   
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="first.html">HOME</a></li>
+      <li><a href="home.html">ABOUT</a></li>
+      <li><a href="quickandcool.html">QUICK AND COOL</a></li>
+      <li><a href="yogapedia.html">YOGAPEDIA</a></li>
+      <li><a href="meditate.html">LET'S MEDITATE</a></li>
+      <li><a href="keepitsimple.html">LIFE HACKS</a></li>
+    </ul>
+  </div>
+</nav>
+</body> 
+</html>

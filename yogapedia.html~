@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+body {
+    background: url("plain2.jpeg");
+    background-size: 1400px 2000px;
+    background-repeat: no-repeat;
+    padding-top: 40px;
+}
+</style>
+</head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+<style>
+.w3-btn {margin-bottom:10px;}
+</style>
+
+
+<div class="w3-container">
+<br><br>
+	 
+<h1><center><font color="blue">Choose your Type</font></center></h1>
+
+<h3>
+	<ul><a href="anxiety.html"><button class="w3-btn w3-white w3-border w3-border-maroon w3-round-xlarge"><p style="color:blue";>Yoga for Anxiety</p></button></a>
+<br>
+<a href="asthma.html"><button class="w3-btn w3-white w3-border w3-border-maroon w3-round-xlarge"><p style="color:blue";>Yoga for Asthma</p></button></a>
+<br>
+<a href="backpain.html"><button class="w3-btn w3-white w3-border w3-border-maroon w3-round-xlarge"><p style="color:blue";>Yoga for BackPain</p></button></a>
+<br>
+<a href="calm.html"><button class="w3-btn w3-white w3-border w3-border-maroon w3-round-xlarge"><p style="color:blue";>Yoga for Calm</p></button></a>
+<br>
+<a href="carpal.html"><button class="w3-btn w3-white w3-border w3-border-maroon w3-round-xlarge"><p style="color:blue";>Yoga for Carpal Tunnel Syndrome</p></button></a>
+<br>
+<a href="depression.html"><button class="w3-btn w3-white w3-border w3-border-maroon w3-round-xlarge"><p style="color:blue";>Yoga for Depression</p></button></a>
+<br>
+<a href="digestion.html"><button class="w3-btn w3-white w3-border w3-border-maroon w3-round-xlarge"><p style="color:blue";>Yoga for Digestion</p></button></a>
+<br>
+<a href="energy.html"><button class="w3-btn w3-white w3-border w3-border-maroon w3-round-xlarge"><p style="color:blue";>Yoga for Energy</p></button></a>
+<br>
+<a href="fatigue.html"><button class="w3-btn w3-white w3-border w3-border-maroon w3-round-xlarge"><p style="color:blue";>Yoga for Fatigue</p></button></a>
+<br>
+<a href="fitness.html"><button class="w3-btn w3-white w3-border w3-border-maroon w3-round-xlarge"><p style="color:blue";>Yoga for Fitness</p></button></a>
+<br>
+<a href="flatfeet.html"><button class="w3-btn w3-white w3-border w3-border-maroon w3-round-xlarge"><p style="color:blue";>Yoga for Flat Feet</p></button></a>
+<br>
+<a href="flexibility.html"><button class="w3-btn w3-white w3-border w3-border-maroon w3-round-xlarge"><p style="color:blue";>Yoga for Flexibility</p></button></a>
+<br>
+<a href="headache.html"><button class="w3-btn w3-white w3-border w3-border-maroon w3-round-xlarge"><p style="color:blue";>Yoga for Headache</p></button></a>
+<br>
+<a href="highbloodpressure.html"><button class="w3-btn w3-white w3-border w3-border-maroon w3-round-xlarge"><p style="color:blue";>Yoga for Controlling High Blood Pressure</p></button></a>
+<br>
+<a href="infertility.html"><button class="w3-btn w3-white w3-border w3-border-maroon w3-round-xlarge"><p style="color:blue";>Yoga for Infertility</p></button></a>
+<br>
+<a href="insomnia.html"><button class="w3-btn w3-white w3-border w3-border-maroon w3-round-xlarge"><p style="color:blue";>Yoga for Insomnia</p></button></a>
+<br>
+<a href="menopause.html"><button class="w3-btn w3-white w3-border w3-border-maroon w3-round-xlarge"><p style="color:blue";>Yoga for Menopause</p></button></a>
+
+<br>
+<a href="neckpain.html"><button class="w3-btn w3-white w3-border w3-border-maroon w3-round-xlarge"><p style="color:blue";>Yoga for Neckpain</p></button></a>
+<br>
+<a href="osteoporosis.html"><button class="w3-btn w3-white w3-border w3-border-maroon w3-round-xlarge"><p style="color:blue";>Yoga for Osteoporosis</p></button></a>
+
+<br>
+<a href="pregnancy.html"><button class="w3-btn w3-white w3-border w3-border-maroon w3-round-xlarge"><p style="color:blue";>Yoga for Pregnancy</p></button></a>
+
+
+
+
+<br>
+<a href="sinusitis.html"><button class="w3-btn w3-white w3-border w3-border-maroon w3-round-xlarge"><p style="color:blue";>Yoga for Sinusitis</p></button></a>
+<br>
+<a href="stress.html"><button class="w3-btn w3-white w3-border w3-border-maroon w3-round-xlarge"><p style="color:blue";>Yoga for Stress</p></button></a>
+
+<br>
+<a href="weightloss.html"><button class="w3-btn w3-white w3-border w3-border-maroon w3-round-xlarge"><p style="color:blue";>Yoga for Weightloss</p></button></a>
+</ul></p></font></h3>
+<br><br><br>
+</html>
+<html lang="en">
+<head>
+  <title>Bootstrap Case</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<nav class="navbar navbar-default navbar-fixed-bottom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+   
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="first.html">HOME</a></li>
+      <li><a href="home.html">ABOUT</a></li>
+      <li><a href="trial.html">QUICK AND COOL</a></li>
+      <li><a href="yogapedia.html">YOGAPEDIA</a></li>
+      <li><a href="meditate.html">LET'S MEDITATE</a></li>
+<li><a href="keepitsimple.html">LIFE HACKS</a></li>
+    </ul>
+  </div>
+</nav>
+</body> 					
