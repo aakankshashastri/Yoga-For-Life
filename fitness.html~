@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+body {
+    background: url("wall.jpeg");
+    background-size: 5000px 5000px;
+    background-repeat: no-repeat;
+    padding-top: 40px;
+}
+</style>
+</head>
+<h1><center><font color="black">Asanas to restore Fitness</font></center></h1>
+<h2> <font color="black">Dolphin Pose</font></h2>
+<br>
+<img src = "dolphin.jpg" width="300px" align="middle"> 
+<p><ul>
+<font color="black"><h3>Pose Information</h3>
+<h4> 
+<li>Pose Level : 1</li>
+<li>Contradictions and Cautions</li>
+ Shoulder or neck injuries, keep knees bent
+</h3>
+<br>
+<p>
+  <iframe src= "https://www.youtube.com/embed/l86hcu5iDlc"
+   width="560" height="315" frameborder="0" allowfullscreen></iframe>
+</p>
+<h3>Benefits</h3>
+<h4>
+    <li> Calms the brain and helps relieve stress and mild depression</li>
+    <li>Stretches the shoulders, hamstrings, calves, and arches</li>
+    <li> Strengthens the arms and legs</li>
+    <li> Helps relieve the symptoms of menopause</li>
+    <li>Relieves menstrual discomfort when done with head supported</li>
+    <li>  Helps prevent osteoporosisy</li>
+    <li>    Improves digestion</li> 
+    <li>Relieves headache, insomnia, back pain, and fatigue</li>
+    <li>Therapeutic for high blood pressure, asthma, flat feet, sciatica</li>
+ 
+</h4></ul></p></font>
+<br><br><br>
+
+<h2> <font color="black">Locust Pose</font></h2>
+<br>
+<img src = "locust.jpg" width="300px" align="middle"> 
+<p><ul>
+<font color="black"><h3>Pose Information</h3>
+<h4><li>Sanskrit Name : Salabhasana</li>
+<li>Pose Level : 1</li>
+<li>Contradictions and Cautions</li>
+Headache
+Serious back injury
+Students with neck injuries should keep their head in a neutral position by looking down at the floor; they might also support the forehead on a thickly folded blanket.
+<br>
+</h3>
+<br>
+<p>
+  <iframe src="https://www.youtube.com/embed/582eV71P1sQ"
+   width="560" height="315" frameborder="0" allowfullscreen></iframe>
+</p>
+<h3>Benefits</h3>
+<h4>
+    <li>Strengthens the muscles of the spine, buttocks, and backs of the arms and legs</li>
+    <li>Stretches the shoulders, chest, belly, and thighs</li>
+    <li>Improves posture</li>
+    <li>Stimulates abdominal organs</li>
+    <li>Helps relieve stress</li>
+   
+    
+</h4></ul></p></font>
+</html>
+<br><br><br><br><br><br><br><br>
+<html lang="en">
+<head>
+  <title>Bootstrap Case</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<nav class="navbar navbar-default navbar-fixed-bottom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+   
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="first.html">HOME</a></li>
+      <li><a href="home.html">ABOUT</a></li>
+      <li><a href="trial.html">QUICK AND COOL</a></li>
+      <li><a href="yogapedia.html">YOGAPEDIA</a></li>
+    </ul>
+  </div>
+</nav>
+</body>

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+body {
+    background: url("wall.jpeg");
+    background-size: 5000px 5000px;
+    background-repeat: no-repeat;
+    padding-top: 40px;
+}
+</style>
+</head>
+<h1><center><font color="black">Asanas to reduce Carpal Tunnel Syndrome</font></center></h1>
+<h2> <font color="black">Salutation Seal</font></h2>
+<br>
+<img src = "anjali.jpg" width="300px" align="middle"> 
+<p><ul>
+<font color="black"><h3>Pose Information</h3>
+<h4><li>Sanskrit Name : Anjali Mudra</li>
+<li>Pose Level : 1</li>
+<li>Beginner's Tip</li>
+Take care not to harden the skin as you spread the palms against each other. The center of the palm should always stay soft and maintain its "dome" shape. Keep the thumbs soft too.
+</h3>
+<br>
+<p>
+  <iframe src=" https://www.youtube.com/embed/4bR8iTECIXo"
+   width="560" height="315" frameborder="0" allowfullscreen></iframe>
+</p>
+<h3>Benefits</h3>
+<h4>
+    <li> Reduces stress and anxiety</li>
+    <li> Calms the brain</li>
+    <li>Creates felxibility in hands,fingers,wrists and arms</li>
+    <li>Opens the heart</li>
+    
+     
+</h4></ul></p></font>
+<br><br><br>
+
+<h2> <font color="black">Warrior II Pose</font></h2>
+<br>
+<img src = "vir.jpg" width="300px" align="middle"> 
+<p><ul>
+<font color="black"><h3>Pose Information</h3>
+<h4><li>Sanskrit Name : Virabhadrasana II</li>
+<li>Pose Level : 1</li>
+<li>Contraindications and Cautions</li>
+Diarrhea<br>
+High blood pressure<br>
+Neck Problems : Don't turn your head to look over the front hand; continue to look straight ahead with both sides of the neck lengthened evenly.<br>
+</h3>
+<br>
+<p>
+  <iframe src="https://www.youtube.com/embed/EkqEjfGEqH4"
+   width="560" height="315" frameborder="0" allowfullscreen></iframe>
+</p>
+<h3>Benefits</h3>
+<h4>
+    <li>Strengthens and stretches the legs and ankles</li>
+    <li>Stretches the groins, chest and lungs, shoulders</li>
+    <li> Stimulates abdominal organs</li>
+    <li>Increases stamina</li>
+    <li>Relieves backaches, especially through second trimester of pregnancy</li>
+    <li> Therapeutic for carpal tunnel syndrome, flat feet, infertility, osteoporosis, and sciatica</li>
+ 
+    
+</h4></ul></p></font>
+</html>
+<br><br><br><br><br><br><br><br>
+<html lang="en">
+<head>
+  <title>Bootstrap Case</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<nav class="navbar navbar-default navbar-fixed-bottom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+   
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="first.html">HOME</a></li>
+      <li><a href="home.html">ABOUT</a></li>
+      <li><a href="trial.html">QUICK AND COOL</a></li>
+      <li><a href="yogapedia.html">YOGAPEDIA</a></li>
+    </ul>
+  </div>
+</nav>
+</body> 
